@@ -1,10 +1,11 @@
 
 body {
   font-family: Georgia, serif;
-  background: #ffffff;
+  background: #f9f7f3; /* soft off-white */
   color: #111;
   line-height: 1.5;
   margin: 2rem;
+
 }
 
 main {
